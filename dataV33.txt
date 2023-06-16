@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://freeimghost.net/i/5QhIO"},
+  {"desc2":"In an era dominated by technology and digital connectivity, concerns about privacy have become increasingly prominent","photo2":"https://freeimghost.net/i/5Qjn6"},
+  {"desc3":"From online data breaches to surveillance, individuals are seeking ways to protect their personal information and maintain their privacy","photo3":"https://freeimghost.net/i/5Qtad"},
+  {"desc4":"One solution that has gained traction is the use of Privatka Tip mods, which offer enhanced privacy features for various digital platforms and applications","photo4":"https://freeimghost.net/i/5QBV1"},
+  {"desc5":"In this article, we will explore the concept of Privatka Tip mods and how they can help individuals safeguard their online privacy.","photo5":"https://freeimghost.net/i/5QK9q"},
+  {"descd":"Privatka Tip mods are custom modifications or add-ons that can be installed on digital platforms, applications, or devices to enhance privacy and security features","photod":"https://freeimghost.net/i/5Qahl"}
    ]
  
 }
